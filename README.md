@@ -1,11 +1,11 @@
 - 👋 Hi, I’m < Kankan_Paramanik />
  <li>👀 I’m interested in 
 
-      <li> { REACT && HTML && CSS }
+      <li> { REACT && HTML && CSS } </li>
       
-      <l1> Machine Learning 
+      <l1> Machine Learning </li>
       
-      <li> Competitive Programming
+      <li> Competitive Programming </li>
       
 - 🌱 I’m currently learning 
       === No End To Web Dev
@@ -14,17 +14,22 @@
 
 <li> My developed clones((have alook) =>
 
-       <li> LinkedIn Clone : https://linkedin-clone-kankan.web.app
+       <li> LinkedIn Clone : https://linkedin-clone-kankan.web.app.  </li>
        
-       <li> WhatsApp Clone : https://whatsapp-clone-kp-8964f.web.app
+       <li> WhatsApp Clone : https://whatsapp-clone-kp-8964f.web.app. </li>
        
-       <li> YouTube Clone : https://clone-kp.web.app
+       <li> YouTube Clone : https://clone-kp.web.app.  </li>
  
  
 - 📫 How to reach me
+
+
+
       Email - kankanpramanik001@gmail.com
+      
       LinkedIn - https://www.linkedin.com/in/kankan-paramanik-25102b1bb
-      Mbile - 7074113885
+      
+      Mobile No. - 7074113885
 
 <!---
 Kp31072001/Kp31072001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
