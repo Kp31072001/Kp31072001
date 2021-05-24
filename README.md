@@ -3,6 +3,8 @@
 
       <li> { REACT && HTML && CSS } </li>
       
+      <li> {Redux && Firebase} </li>
+      
       <l1> Machine Learning </li>
       
       <li> Competitive Programming </li>
