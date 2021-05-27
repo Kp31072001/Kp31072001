@@ -21,6 +21,8 @@
        <li> WhatsApp Clone : https://whatsapp-clone-kp-8964f.web.app. </li>
        
        <li> YouTube Clone : https://clone-kp.web.app.  </li>
+       
+       <li> Netflix Clone : https://netflix-clone-kp.web.app.  </li>
  
  
 - 📫 How to reach me
