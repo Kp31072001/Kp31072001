@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning 
       === No End To Web Dev
       
-- Please have a look at my digital resume =>
+- Please have a look at my digital resume => https://digital-cv-1afca.web.app
 
 <li> My developed clones((have alook) =>
 
