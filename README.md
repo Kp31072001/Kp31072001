@@ -1,7 +1,7 @@
 - 👋 Hi, I’m < Kankan_Paramanik />
  <li>👀 I’m interested in 
 
-      <li> { REACT && HTML && CSS } </li>
+      <li> { REACT && MERN && HTML && CSS } </li>
       
       <li> {Redux && Firebase} </li>
       
